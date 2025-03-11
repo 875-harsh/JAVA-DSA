@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 public class LinearSearching {
   public static void main(String[] args) {
     int numbers[]={1,3,6,38,9,10,42};
